@@ -1,0 +1,26 @@
+body
+{
+margin: 20px; 
+font-family: 'Poppins', sans-serif;   
+}
+
+.card
+{
+     display: flex;
+    margin: 0px auto;
+    justify-content: space-around;
+    width: 400px;
+    background: #3F826D;
+    padding: 20px;
+    border-radius: 8px 50px 8px 8px;
+    color: white;
+    text-align: center;
+}
+
+.profile
+{
+    border: 2px solid white;
+    border-radius: 5px;
+    width: 150px;
+}
+
